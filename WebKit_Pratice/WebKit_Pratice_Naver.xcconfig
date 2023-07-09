@@ -1,0 +1,4 @@
+// pod파일을 include해서 사용가능
+
+SERVER_URL = https:/$()/www.naver.com
+
